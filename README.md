@@ -17,4 +17,4 @@
 - Адаптивный интерфейс для разных устройств.
 
 Ссылка на проект: 
-https://prosviuliia.github.io/Mesto8/
+ https://prosvirnina12.github.io/-/
